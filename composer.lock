@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "d8d3ca1e2907c23aa83d8049d6d95c39",
+    "content-hash": "f148f6d97c934652e9963b6356f28d39",
     "packages": [
         {
             "name": "composer/installers",
@@ -577,6 +577,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/what-the-file/"
+        },
+        {
+            "name": "wpackagist-plugin/widget-importer-exporter",
+            "version": "1.5.3",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/widget-importer-exporter/",
+                "reference": "tags/1.5.3"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/widget-importer-exporter.1.5.3.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/widget-importer-exporter/"
         },
         {
             "name": "wpackagist-plugin/wp-native-php-sessions",
