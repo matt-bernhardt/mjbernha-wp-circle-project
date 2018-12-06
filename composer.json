@@ -33,6 +33,7 @@
     "wpackagist-plugin/what-the-file": "^1.5",
     "wpackagist-plugin/widget-importer-exporter": "^1.5",
     "wpackagist-plugin/wp-native-php-sessions": "^0.6.0",
+    "wpackagist-plugin/wp-security-audit-log": "^3.2",
     "wpackagist-theme/twentyseventeen": "^1.1"
   },
   "require-dev": {
