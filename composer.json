@@ -30,6 +30,7 @@
     "wpackagist-plugin/p3-profiler": "1.5.3.9",
     "wpackagist-plugin/pantheon-advanced-page-cache": "^0.1.4",
     "wpackagist-plugin/theme-check": "20160523.1",
+    "wpackagist-plugin/what-the-file": "^1.5",
     "wpackagist-plugin/wp-native-php-sessions": "^0.6.0",
     "wpackagist-theme/twentyseventeen": "^1.1"
   },
