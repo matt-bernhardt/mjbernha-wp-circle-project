@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "3b587c20c8103dee53525c35ebc6cacb",
+    "content-hash": "0a73aac0150cc5f36fe9673037e7116a",
     "packages": [
         {
             "name": "composer/installers",
@@ -377,6 +377,26 @@
                 "environment"
             ],
             "time": "2018-07-29T20:33:41+00:00"
+        },
+        {
+            "name": "wpackagist-plugin/cf7-conditional-fields",
+            "version": "1.4.1",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/cf7-conditional-fields/",
+                "reference": "tags/1.4.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/cf7-conditional-fields.1.4.1.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/cf7-conditional-fields/"
         },
         {
             "name": "wpackagist-plugin/contact-form-7",
