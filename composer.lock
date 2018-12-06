@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "ddd06855050d5969233919263f5b96a2",
+    "content-hash": "1b92dff8a60c19b5532293e60dce6e3f",
     "packages": [
         {
             "name": "composer/installers",
@@ -437,6 +437,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/debug-bar/"
+        },
+        {
+            "name": "wpackagist-plugin/embedit-pro",
+            "version": "1.11",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/embedit-pro/",
+                "reference": "tags/1.11"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/embedit-pro.1.11.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/embedit-pro/"
         },
         {
             "name": "wpackagist-plugin/pantheon-advanced-page-cache",

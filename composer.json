@@ -24,6 +24,7 @@
     "wpackagist-plugin/cf7-conditional-fields": "^1.4",
     "wpackagist-plugin/contact-form-7": "^5.0",
     "wpackagist-plugin/debug-bar": "^1.0",
+    "wpackagist-plugin/embedit-pro": "^1.11",
     "wpackagist-plugin/pantheon-advanced-page-cache": "^0.1.4",
     "wpackagist-plugin/wp-native-php-sessions": "^0.6.0",
     "wpackagist-theme/twentyseventeen": "^1.1"
