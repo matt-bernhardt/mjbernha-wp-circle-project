@@ -12,6 +12,10 @@
     {
       "type": "vcs",
       "url": "https://github.com/pantheon-systems/wordpress-composer"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/MITLibraries/mitlibraries.github.io"
     }
   ],
   "require": {
@@ -21,8 +25,19 @@
     "roots/wp-password-bcrypt": "^1.0.0",
     "rvtraveller/qs-composer-installer": "^1.1",
     "vlucas/phpdotenv": "^2.4.0",
+    "wpackagist-plugin/cf7-conditional-fields": "^1.4",
+    "wpackagist-plugin/contact-form-7": "^5.0",
+    "wpackagist-plugin/debug-bar": "^1.0",
+    "wpackagist-plugin/embedit-pro": "^1.11",
+    "wpackagist-plugin/gutenberg": "^4.6",
+    "wpackagist-plugin/media-library-assistant": "^2.75",
+    "wpackagist-plugin/p3-profiler": "1.5.3.9",
     "wpackagist-plugin/pantheon-advanced-page-cache": "^0.1.4",
+    "wpackagist-plugin/theme-check": "20160523.1",
+    "wpackagist-plugin/what-the-file": "^1.5",
+    "wpackagist-plugin/widget-importer-exporter": "^1.5",
     "wpackagist-plugin/wp-native-php-sessions": "^0.6.0",
+    "wpackagist-plugin/wp-security-audit-log": "^3.2",
     "wpackagist-theme/twentyseventeen": "^1.1"
   },
   "require-dev": {
