@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "a187614f5dec90e7e3cf021aec6a2f92",
+    "content-hash": "f5c720df9b215c1a86962f636af01050",
     "packages": [
         {
             "name": "composer/installers",
@@ -497,6 +497,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/media-library-assistant/"
+        },
+        {
+            "name": "wpackagist-plugin/p3-profiler",
+            "version": "1.5.3.9",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/p3-profiler/",
+                "reference": "tags/1.5.3.9"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/p3-profiler.1.5.3.9.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/p3-profiler/"
         },
         {
             "name": "wpackagist-plugin/pantheon-advanced-page-cache",
